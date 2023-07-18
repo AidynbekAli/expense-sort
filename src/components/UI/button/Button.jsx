@@ -10,9 +10,5 @@ const Button = ({ children, onClick, ...rest }) => {
 	
 }
 
- 
-const getBackground=(props)=>{
-	return props.color === 'blue' ? 'blue': "red"
-}
 
 export default Button

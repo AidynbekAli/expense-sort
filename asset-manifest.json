@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-sprt/static/css/main.a3f154be.css",
+    "main.js": "/expense-sprt/static/js/main.da99c90b.js",
+    "index.html": "/expense-sprt/index.html",
+    "main.a3f154be.css.map": "/expense-sprt/static/css/main.a3f154be.css.map",
+    "main.da99c90b.js.map": "/expense-sprt/static/js/main.da99c90b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3f154be.css",
+    "static/js/main.da99c90b.js"
+  ]
+}
